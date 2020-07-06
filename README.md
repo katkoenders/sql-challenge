@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
@@ -97,3 +98,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# sql-challenge
+Analyzing data for employees of a company. Data modeling, data engineering, and data analysis were performed. The given CSV file was converted into a correspinding SQL table. Once the SQL table was created, inquiried such as the details of each employee and a list fo the employees hired in 1986 were answered. 
+>>>>>>> 7d4defad605d11dc153143a7e3caad9f6322404c
