@@ -5,9 +5,11 @@ Introduction
 
 Process
 
-<br>Technology Used
+Technology Used
 <br>-PLSQL
 
+Conclusion
 
-<br>Contributors
+
+Contributors
 <br>Katrina Koenders was sole contributor for this project. 
