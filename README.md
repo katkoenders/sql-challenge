@@ -6,7 +6,7 @@
 # Process
 
 # Technology Used
-* [PLSQL]
+* PLSQL
 
 # Conclusion
 
