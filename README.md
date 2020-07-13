@@ -4,11 +4,23 @@
 Data is analyzed for employees of a company by using data modeling, data engineering. The given CSV file was converted into a correspinding SQL table. Once the SQL table was created, inquiried such as the details of each employee and a list fo the employees hired in 1986 were answered.
 
 # Process
+1. The CSV's were observed and an ERD of the tables were sketched out as prelinary step. 
+2. A table schema for each of the six CSV files was created based on the information that was gievn. Data types, primary keys, foreign keys and other constraints were specified. 
+3. Each CSV file was imported into a correspinding SQL table. 
+4. The details of each employee such as employee number, last name, first name, gender, and salary were listed in a table. 
+5. Employees that were hired in 1986 were also listed in another table. 
+6. The manager of each department with information such as department number, department name, the manager's employee number, last name, first name, and start and end employment dates were listed. 
+7. The department of each employee with information such as employee number, last name, first name, and department name was listed. 
+8. Employees whose first name is "Hercules" and last names begin with "B" was listed. 
+9. All employees in the Sales department, including information such as employee number, last name, first name, and department name was listed. 
+10. all employees in the Sales and Development departments, including information such as employee number, last name, first name, and department name was listed. 
+11. The frequency count of employee last names in descending order was listed.  5t
 
 # Technology Used
 * PLSQL
 
 # Conclusion
+After each CSV file was imported the questions were able to be answered in the tables created from the code. 
 
 
 # Contributors
