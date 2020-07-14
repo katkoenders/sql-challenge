@@ -22,12 +22,13 @@ Data is analyzed for employees of a company by using data modeling, data enginee
 # Conclusion
 After each CSV file was imported the questions were able to be answered in the tables created from the code. 
 
+Details of each employee including employee number, last name, first name, gender, and salary. 
 ![image](https://user-images.githubusercontent.com/57878641/87366240-d676ac80-c53d-11ea-9f98-c916cdd0efc7.png)
 
-Employees hired in 1986
+Employees hired in 1986. 
 ![image](https://user-images.githubusercontent.com/57878641/87366418-3c633400-c53e-11ea-8d88-5e75a8f85d4d.png)
 
-Frequency count of employee last names in descending order
+Frequency count of employee last names in descending order. 
 ![image](https://user-images.githubusercontent.com/57878641/87366548-9237dc00-c53e-11ea-87c9-7ffff9a40523.png)
 
 
