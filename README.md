@@ -14,7 +14,7 @@ Data is analyzed for employees of a company by using data modeling, data enginee
 8. Employees whose first name is "Hercules" and last names begin with "B" was listed. 
 9. All employees in the Sales department, including information such as employee number, last name, first name, and department name was listed. 
 10. all employees in the Sales and Development departments, including information such as employee number, last name, first name, and department name was listed. 
-11. The frequency count of employee last names in descending order was listed.  5t
+11. The frequency count of employee last names in descending order was listed.  
 
 # Technology Used
 * PLSQL
@@ -26,6 +26,9 @@ After each CSV file was imported the questions were able to be answered in the t
 
 
 ![image](https://user-images.githubusercontent.com/57878641/87366418-3c633400-c53e-11ea-8d88-5e75a8f85d4d.png)
+
+Frequency count of employee last names in descending order
+![image](https://user-images.githubusercontent.com/57878641/87366548-9237dc00-c53e-11ea-87c9-7ffff9a40523.png)
 
 
 # Contributors
