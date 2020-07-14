@@ -25,5 +25,8 @@ After each CSV file was imported the questions were able to be answered in the t
 ![image](https://user-images.githubusercontent.com/57878641/87366240-d676ac80-c53d-11ea-9f98-c916cdd0efc7.png)
 
 
+![image](https://user-images.githubusercontent.com/57878641/87366418-3c633400-c53e-11ea-8d88-5e75a8f85d4d.png)
+
+
 # Contributors
 Katrina Koenders was sole contributor for this project. 
