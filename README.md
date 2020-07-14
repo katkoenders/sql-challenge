@@ -22,6 +22,8 @@ Data is analyzed for employees of a company by using data modeling, data enginee
 # Conclusion
 After each CSV file was imported the questions were able to be answered in the tables created from the code. 
 
+![image](https://user-images.githubusercontent.com/57878641/87366240-d676ac80-c53d-11ea-9f98-c916cdd0efc7.png)
+
 
 # Contributors
 Katrina Koenders was sole contributor for this project. 
